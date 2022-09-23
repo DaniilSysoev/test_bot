@@ -10,7 +10,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 delay = 0
 chat_id = 0
 flag = ""
-token = "5751929492:AAF8mOvn_ZA8Cod3RoFZTcpFWz653XdGxWI"
+token = ""
 bot = telebot.TeleBot(token)
 
 
